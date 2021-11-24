@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "474cab64-0f12-539d-bf81-8d82dec1008d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Game Theory for Strategic Advantage",
+  "course_description": "This course develops and applies principles of game theory relevant to managers' strategic decisions. Topics include how to reason about strategies and opponents; strategic commitment, reputation, and \"irrational\" actions; brinkmanship and negotiation; auctions; and the design of markets and contests. Applications to a variety of business decisions that arise in different industries, both within and outside the firm.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.025",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
